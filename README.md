@@ -2,16 +2,15 @@
 Host-Virus matches for Bacteria and Archaea
 
 ## Dependencies (must be included in the system path):
-ncbi blast+
-Bioperl
-tRNAscan-SE
-WIsH (Who Is the Host?)
+- Bioperl
+- ncbi blast+
+- tRNAscan-SE
+- CRISPRDetect
+- WIsH (Who Is the Host?)
 
-Usage:
+## Usage:
 
-perl find_host.pl - --hosts Hosts_dir/ - --phages Phage_dir/
-
-## Optional parameters
+perl FinHo.pl - --hosts Hosts_dir/ - --phages Phage_dir/
 
 ### General options:
 - --format | Extension of the files containing genomic sequences in the Host and Phage directories (default = fasta)
