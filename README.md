@@ -1,6 +1,10 @@
 # FinHo
 Host-Virus matches for Bacteria and Archaea
 
+## Citation
+[Coutinho FH, Cabello-Yeves PJ, Gonzalez-Serrano R, Rosselli R, López-Pérez M, Zemskaya TI, Zakharenko AS, Ivanov VG, and
+Rodriguez-Valera F. New viral biogeochemical roles revealed through metagenomic analysis of Lake Baikal. Microbiome . Microbiome; 2020;8:163.](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00936-4)
+
 ## Dependencies (must be included in the system path):
 - Bioperl
 - ncbi blast+
