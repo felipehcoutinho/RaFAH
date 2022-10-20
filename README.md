@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/felipehcoutinho/FinHo/blob/main/FinHo_Logo.png" width="400" height="400" alt="Virathon logo generated with Craiyon"/>
+</p>
+
 # FinHo
 Host-Virus matches for Bacteria and Archaea
 
