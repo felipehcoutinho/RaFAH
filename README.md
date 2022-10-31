@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/felipehcoutinho/RaFAH/blob/main/RaFAh_Logo_From_craiyon_215839_watercolour_of_bacteriophage_T4_infecting_a_bacterium.png" width="400" height="400" alt="RaFAH logo generated with Craiyon"/>
+</p>
+
 # RaFAH: Random Forest Assignment of Hosts (v0.3)
 
 ## Introduction
